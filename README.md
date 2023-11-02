@@ -6,9 +6,13 @@
 Azure Cost Management for Busy People was written to provide both business professionals and their technology partners with a guide to controlling cloud costs on Azure. Cost control is an often overlooked and under-appreciated cloud skill - until you review your bill. Using this guide, I hope you'll learn the skills and techniques you'll use to right-size your Azure spend and plan from the start with cost in-mind. key topics include:
 
 *The link between architectural choices and cost*
+
 *The importance of strategy and planning to your cloud efforts*
+
 *Azure Cost Management: Using the Azure Portal*
+
 *Azure Cost Management: Using PowerShell*
+
 
 And more!
 
