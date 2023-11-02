@@ -39,6 +39,10 @@ For many organizations, cloud is treated as an IT area alone; this is a mistake.
 Azure Cost Management for Busy People can be your guide to learning how.
 
 
+
+
+
+
 [Order from Amazon](https://www.amazon.com/Azure-Cost-Management-Busy-People-ebook/dp/B07YDT8SZ9/ref=sr_1_1?crid=3HZIOGSHZ79JY&keywords=azure+cost+management+for+busy+people&qid=1698863663&sprefix=azure+cost+management+for+busy+people%2Caps%2C156&sr=8-1)
 
 
