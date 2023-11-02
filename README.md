@@ -49,7 +49,9 @@ alt="Azure Cost Management Quick Guide" width="240" height="180" border="10" /><
 
 
 
-** Order Azure Cost Management for Busy People**
+
+
+**Order Azure Cost Management for Busy People**
 
 [Order from Amazon](https://www.amazon.com/Azure-Cost-Management-Busy-People-ebook/dp/B07YDT8SZ9/ref=sr_1_1?crid=3HZIOGSHZ79JY&keywords=azure+cost+management+for+busy+people&qid=1698863663&sprefix=azure+cost+management+for+busy+people%2Caps%2C156&sr=8-1)
 
