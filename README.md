@@ -38,7 +38,9 @@ FinOps (for, Financial Operations) is a growing and evolving practice area focus
 For many organizations, cloud is treated as an IT area alone; this is a mistake. Cloud technology, with its capacity to provide real-time data about usage and spend (and, through tagging, business insight) is an opportunity for the entire enterprise - and particularly personnel in value chain and finance - to finally have a comprehensive understanding of how the technology investment is performing.
 Azure Cost Management for Busy People can be your guide to learning how.
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
