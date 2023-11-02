@@ -14,11 +14,14 @@ Azure Cost Management for Busy People was written to provide both business profe
 *Azure Cost Management: Using PowerShell*
 
 
+
 And more!
+
 
 Your Azure costs are too high and you aren’t sure what to do about it. This book shows you how to get control.
 
-Azure Cost Management as a Strategic Business Tool
+# Azure Cost Management as a Strategic Business Tool
+
 For many, perhaps most, organizations the cost of running technology on Azure is treated as an IT problem, ‘solved’ by simply finding savings. Azure Cost Management for Busy People is written from a FinOps perspective which views cloud costs as a signal that can be used to assess whether your cloud investment is performing.
 
 
