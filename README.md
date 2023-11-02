@@ -40,7 +40,7 @@ Azure Cost Management for Busy People can be your guide to learning how.
 
 This Microsoft video (click on the image) provides an overview of Azure Cost Management
 
-# Optimizing cloud investments in Azure Cost Management
+# Optimizing Cloud Investments in Azure Cost Management
 
 <a href="https://youtu.be/cSNPoAb-TNc?si=n3b12iEuzoA3V50Z
 " target="_blank"><img src="https://acmpstor.blob.core.windows.net/acmpblob1/Azure-Cost-Management-Banner.png" 
